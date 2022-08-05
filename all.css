@@ -50,24 +50,59 @@ table {
 
 
 
-.red{
+.red1{
     background-color: #aa0601;
     color: white;
     padding-top: 25px;
     padding-bottom: 25px;
   }
-  .red ul{
+  .red1 ul{
     display: flex;
     justify-content: flex-end;
     justify-content: space-between;
     padding-right: 312px;
 }
-  h1{
+h1{
+    border-left: 8px solid #9f1213;
+    font-size: 48px;
+    padding-top: 96px;
+}
+.store p{
+    font-size: 24px;  
+}
+.footer1{
+    background-color: #aa0601;
+    color: white;
+  }
+  .footer1 ul{
+    display: flex;
+    padding-top: 64px;
+  }
+  .footer1 li{
+     font-size: 16px;
+  }
+  .footer1 p{
+    font-size: 36px;
+}
+
+.red2{
+    background-color: #aa0601;
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  .red2 ul{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+    padding-right: 312px;
+}
+  h2{
     font-size: 48px;
     padding-top: 96px;
     border-left: 8px solid #9f1213;
   }
-  h2{
+  h3{
     font-size: 24px;
   }
   li{
@@ -76,18 +111,17 @@ table {
   p{
     font-size: 16px;
   }
-  .footer{
+  .footer2{
     background-color: #aa0601;
     color: white;
   }
-  .footer ul{
+  .footer2 ul{
     display: flex;
     padding-top: 64px;
   }
-  .footer li{
+  .footer2 li{
      font-size: 16px;
   }
-  .footer p{
+  .footer2 p{
     font-size: 36px;
-    
-  }
+}
