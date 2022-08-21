@@ -62,14 +62,29 @@ table {
     justify-content: space-between;
     padding-right: 312px;
 }
+.red1 img{
+  width: 80px;
+}
 h1{
     border-left: 8px solid #9f1213;
     font-size: 48px;
     padding-top: 96px;
+    padding-bottom: 33px;
+    line-height: 72px;    
+}
+.store ul{
+  display: flex;
+   
 }
 .store p{
-    font-size: 24px;  
+    font-size: 24px; 
+    padding-bottom: 41px; 
 }
+.store img{
+  padding-bottom: 80px;
+  width: 526px;
+  padding-left: 24px;
+} 
 .footer1{
     background-color: #aa0601;
     color: white;
@@ -77,14 +92,26 @@ h1{
   .footer1 ul{
     display: flex;
     padding-top: 64px;
+    justify-content: flex-end;
+    justify-content: space-between;
+    width: 1296px;
+
+  }
+  .footer1 ol{
+    border-bottom: 1px solid white;
   }
   .footer1 li{
+    font-size: 36px;
+  }
+  .size{
      font-size: 16px;
   }
   .footer1 p{
     font-size: 36px;
 }
-
+.footer1 img{
+  width: 48px;
+}
 .red2{
     background-color: #aa0601;
     color: white;
@@ -96,6 +123,9 @@ h1{
     justify-content: flex-end;
     justify-content: space-between;
     padding-right: 312px;
+}
+.red2 img{
+  width: 80px;
 }
   h2{
     font-size: 48px;
@@ -111,6 +141,9 @@ h1{
   p{
     font-size: 16px;
   }
+  .question ul{
+    padding-bottom: 80px;
+  }
   .footer2{
     background-color: #aa0601;
     color: white;
@@ -118,6 +151,8 @@ h1{
   .footer2 ul{
     display: flex;
     padding-top: 64px;
+    justify-content: flex-end;
+    justify-content: space-between;
   }
   .footer2 li{
      font-size: 16px;
