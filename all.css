@@ -83,6 +83,9 @@ h1{
   padding-bottom: 80px;
   width: 526px;
   padding-left: 24px;
+  border-left: 1px solid #00000020;
+  border-right: 1px solid #00000020;
+  border-bottom: 1px solid #00000020;
 } 
 .footer1{
     background-color: #aa0601;
